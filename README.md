@@ -8,8 +8,27 @@ the language to use will be Python.
 A REST API will be designed to connect the office's database. 
 It will be developed using agile methodology or SCRUM.
 
-PREREQUISITES.
+PRE-REQUISITES.
+Framework 
+Scrum 
+Jira  tracking product developed.
 
-BUILT WITH. Python. Flask.
+BUILT WITH. 
+Python. 
+Flask.
+Slack. For Work Group communication.
+DBeaver As a SQL client software application and a database administration tool.
+Github.
+Gitlab.
+Visual Studio Code.
+PyCharm integrated development environment used in computer programming, specifically for the Python language.
+
+
 
 AUTHORS.
+
+JSD. Angela Cucalon
+JSD. Augusto Uribe
+JSD.Cristhian Martinez
+JSD. Olga Johanna
+JSE. Vladimir Ceballos Adarve
