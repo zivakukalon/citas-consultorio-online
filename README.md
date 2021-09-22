@@ -30,5 +30,5 @@ AUTHORS.
 JSD. Angela Cucalon Micolta
 JSD. James Augusto Uribe
 JSD.Cristhian Martinez
-JSD. Olga Johanna
+JSD. Olga Johanna Rojas Díaz
 JSE. Vladimir Ceballos Adarve
