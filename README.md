@@ -28,7 +28,7 @@ PyCharm integrated development environment used in computer programming, specifi
 AUTHORS.
 
 JSD. Angela Cucalon Micolta
-JSD. Augusto Uribe
+JSD. James Augusto Uribe
 JSD.Cristhian Martinez
 JSD. Olga Johanna
 JSE. Vladimir Ceballos Adarve
