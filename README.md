@@ -41,3 +41,5 @@ Visual Studio Code | PyCharm  | integrated development environment used in compu
 | Angela Cucalon Micolta        | JSD. Development Team Member | Frontend Developer |
 | Cristhian Martinez            | JSD. Development Team Member | Backend Developer  |
 | James Augusto Uribe           | JSD. Development Team Member | Backend Developer  |
+
+  This README was generated with ❤️ by Group #7
