@@ -2,6 +2,15 @@
 
   <h1>Citas Consultorio  Online</h1>
   
+ ![Stability](https://img.shields.io/badge/stability-stable-brightgreen.svg?style=flat-square)
+[![CircleCI](https://img.shields.io/circleci/project/github/barbajs/barba/master.svg?style=flat-square)](https://circleci.com/gh/barbajs/barba/tree/master)
+[![Coverage Status](https://img.shields.io/coveralls/github/barbajs/barba/master.svg?style=flat-square)](https://coveralls.io/github/barbajs/barba?branch=master)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=flat-square)](https://conventionalcommits.org)
+[![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg?style=flat-square)](https://lernajs.io/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](https://github.com/barbajs/barba/blob/master/LICENSE)
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](#contributors)
+[![Slack channel](https://img.shields.io/badge/slack-channel-purple.svg?style=flat-square&logo=slack)](https://barbajs.slack.com)
   <p>
   <img src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
   <a href="https://twitter.com/zivaku">
@@ -33,7 +42,7 @@ Visual Studio Code | PyCharm  | integrated development environment used in compu
 
 
 
-## 👤 AUTHORS.
+## 👥  AUTHORS.
 |  Crew Member                  | Scrum Team Role              | Responsibilities  |
 |-------------------------------|------------------------------|--------------------|
 | Vladimir Ceballos Adarve      | JSE. (Scrum Master)          | Group Leader       |
