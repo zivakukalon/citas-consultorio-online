@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Citas Consultorio  Online</h1>
+  <h1>Citas Consultorio  Online ❕</h1>
   
  ![Stability](https://img.shields.io/badge/stability-stable-brightgreen.svg?style=flat-square)
 [![CircleCI](https://img.shields.io/circleci/project/github/barbajs/barba/master.svg?style=flat-square)](https://circleci.com/gh/barbajs/barba/tree/master)
@@ -29,10 +29,10 @@ the language to use will be Python.
 A REST API will be designed to connect the office's database. 
 It will be developed using agile methodology or SCRUM.
 
-## ⭐️ PRE-REQUISITES.
+## ⭐️ PRE-REQUISITES❕
 | Framework | Scrum  | Jira | tracking product developed.
 
-## 💻 BUILT WITH. 
+## 💻 BUILT WITH ❕ 
 
 For Work Group communication | Python | Flask | Slack |
   
@@ -42,7 +42,7 @@ Visual Studio Code | PyCharm  | integrated development environment used in compu
 
 
 
-## 👥  AUTHORS.
+## 👥  AUTHORS❕
 |  Crew Member                  | Scrum Team Role              | Responsibilities  |
 |-------------------------------|------------------------------|--------------------|
 | Vladimir Ceballos Adarve      | JSE. (Scrum Master)          | Group Leader       |
