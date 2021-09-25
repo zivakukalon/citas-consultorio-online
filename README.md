@@ -1,6 +1,13 @@
 <div align="center">
 
   <h1>Citas Consultorio  Online</h1>
+  
+  <p>
+  <img src="https://img.shields.io/badge/version-0.1-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/zivaku">
+    <img alt="Twitter: zivaku" src="https://img.shields.io/twitter/follow/zivaku.svg?style=social" target="_blank" />
+  </a>
+</p>
 
 ## ✨ Online Medical Consultations Simulator | Misión TIC 2022 ✨
 
